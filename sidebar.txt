@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kcs:home|Door43 (kcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kcs|d43-kcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kcs/archive/master.zip|d43-kcs.zip]]
+
+**Recent Changes**
+{{changes>ns = kcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kcs|Ethnologue data]]
+
